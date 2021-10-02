@@ -270,12 +270,12 @@
       "no": "16",
       "name": "Yemi Osinbajo",
       "imgsrc": "Yemi-Osinbajo.jpg",
-      "from": 2017,
+      "from":  2017,
       "to": 2017,
       "reason": null,
       "born": 1957,
       "party": "APC",
-      "diedInOffice": null,
+      "diedInOffice": false,
       "extra_information": [
         {
           "bio": null
